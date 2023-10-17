@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * fizz_buzz - prints 1 - 100, followed by a new line
