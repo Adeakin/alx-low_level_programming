@@ -1,11 +1,10 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
- * fizz_buzz - prints 1 - 100, followed by a new line
- * multiple of 3 prints Fizz, multiple of 5 prints Buzz
+ * fizz_buzz - prints 1 to 100, followed by a new line
+ * multiple of three prints Fizz, multiple of five prints Buzz
  * multilple of both prints FizzBuzz
- * Return: 0 
+ * Return: Always 0 success 
  */
 int main(void)
 {
@@ -31,6 +30,6 @@ int main(void)
 		}
 	}
 	printf("\n");
+
 	return (0);
 }
-
