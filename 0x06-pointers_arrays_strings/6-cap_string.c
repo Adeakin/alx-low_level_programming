@@ -4,7 +4,7 @@
  * cap_string - capitalizes every word of a string
  * @s: string to modify
  *
- * Returm: the resulting string
+ * Return: the resulting string
  */
 
 char *cap_string(char *s)
@@ -16,7 +16,7 @@ char *cap_string(char *s)
 	
 	for (i = 0; s[i] != '\0'; i++)
 	{
-		if (i == 0 && s[i] >= 'a' && s [i] <= 'z')
+		if (i == 0 && s[i] >= 'a' && s[i] <= 'z')
 			s[i] -= 32;
 
 		for (b = 0; b < 13; b++)
