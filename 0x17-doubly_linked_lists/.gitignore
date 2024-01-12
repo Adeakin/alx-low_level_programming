@@ -5,3 +5,7 @@
 # Ignore compiled files
 *.o
 *.out
+
+
+# Ignore executable files
+*.exe
