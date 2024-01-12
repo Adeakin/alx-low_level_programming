@@ -1,5 +1,4 @@
-[ALX C Programming project]![image](https://user-images.githubusercontent.com/105258746/189208480-2fccc610-22af-4ed9-8928-2ebf0e99b002.png)<br>
-[Introduction to C programming]![image](https://img-c.udemycdn.com/course/750x422/700012_a499_9.jpg)
+#### [ALX C Programming project]![Introduction to C programming]![image](https://img-c.udemycdn.com/course/750x422/700012_a499_9.jpg)
 # C PROGRAMMING `0x00. C - Hello, World`
 
 ### Note: You can use any text editor of your choice to create your file. Ensure the first line is `#!/bin/bash`, then the second line is having the correct command.
