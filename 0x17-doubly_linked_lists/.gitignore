@@ -2,10 +2,16 @@
 *.swp
 *.swo
 
-# Ignore compiled files
+# Ignore all executable and compiled files
+*.*
+*.exe
 *.o
 *.out
-
-
-# Ignore executable files
-*.exe
+*.class
+*.jar
+*.war
+*.ear
+*.dll
+*.so
+*.pyc
+*.pyo
