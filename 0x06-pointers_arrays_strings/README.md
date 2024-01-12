@@ -20,5 +20,5 @@
 
 File _putchar.c is a function that replaces the standard library function putchar().
 
-* File main.h is the header file containing all the function prototypes.
+File main.h is the header file containing all the function prototypes.
 
