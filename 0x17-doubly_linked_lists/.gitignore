@@ -1,0 +1,7 @@
+# Handle vi auto-recovery generated files
+*.swp
+*.swo
+
+# Ignore compiled files
+*.o
+*.out
